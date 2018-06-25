@@ -2,4 +2,5 @@
 Some datasets
 http://deeplearning.net/datasets/
 
-[[Generating image description | http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/AnnotationDemo.html]]
+[Generating image description](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+
