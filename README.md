@@ -7,3 +7,5 @@ http://deeplearning.net/datasets/
 
 [Coco dataset](http://cocodataset.org)
 
+[large-scale audio-visual dataset](https://looking-to-listen.github.io/avspeech/)
+
