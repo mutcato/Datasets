@@ -1,6 +1,8 @@
 # Datasets
 Some datasets
 
+https://archive.ics.uci.edu/ml/datasets.php
+
 http://deeplearning.net/datasets/
 
 [Generating image description](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
